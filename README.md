@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+   <a href="https://swamysmudiga.github.io/portfolio/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/strategy-and-management-13/512/114_resume_portfolio_cv_job_search-1024.png" alt="Portfolio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swamymudiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swamymudiga" height="30" width="40" /></a>
 <a href="https://instagram.com/swamy.m.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swamy.m.s" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swamymudiga1996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swamymudiga1996" height="30" width="40" /></a>
-  <a href="https://swamysmudiga.github.io/portfolio/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/strategy-and-management-13/512/114_resume_portfolio_cv_job_search-1024.png" alt="Portfolio" height="30" width="40" /></a>
 
 </p>
 
