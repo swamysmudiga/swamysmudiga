@@ -7,12 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamysmudiga&label=Profile%20views&color=0e75b6&style=flat" alt="swamysmudiga" /> </p>
 
-- 🔭 I’m currently working on [Refugee Connect](https://github.com/swamysmudiga/RefugeeConnect)
-
-- 🌱 I’m currently learning **Artifical Intelligence and Machine Learning**
-
-- 💬 Ask me about **Web Applications, MERN**
-
 - 📫 How to reach me **swamymudiga2023@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
