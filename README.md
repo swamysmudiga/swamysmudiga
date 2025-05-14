@@ -2,7 +2,9 @@
 [![MasterHead](https://camo.githubusercontent.com/371a3bbae1297d47d50006f91fdc0f51f0060b62dbbddbdba1b1b1438bc0f80d/68747470733a2f2f6d617275663030312d6d742e6769746875622e696f2f5072656d69756d2d44656c69766572792f7765622e676966)](https://swamymudiga.io)
 
 <h1 align="center">Hi 👋, I'm Swamy Mudiga</h1>
-<h3 align="center">A passionate software engineer currently pursuing a Master's degree in Software Engineering Systems. With over five years of professional experience in the information technology industry, I've had the opportunity to work extensively within the Life Science and Insurance sectors.</h3>
+<h3 align="center">Software Engineer with over 5 years of experience building scalable backend systems, modern web applications, and cloud-native solutions. I’ve worked across healthcare, life sciences, and finance, contributing to a variety of impactful projects. I’m a highly motivated individual with experience designing and implementing software solutions, and hands-on exposure to cloud technologies and modern application frameworks.
+
+I’m currently looking for a full-time role where I can continue to grow, contribute meaningfully, and collaborate with people who are passionate about technology. I bring a strong work ethic and a growth mindset, and I’m eager to learn new technologies while working with diverse and innovative teams.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swamysmudiga&label=Profile%20views&color=0e75b6&style=flat" alt="swamysmudiga" /> </p>
